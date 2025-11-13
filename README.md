@@ -24,7 +24,7 @@ This helped me understand customer demand, preferences, and buying behaviour.
   - Monthly visitor traffic and segment popularity
 - Summarised all findings into a PPT with visuals and charts
 
-## Insights (Data Findings)
+## Key Insights (Data Findings)
 - EV segment showed strong, steady growth every month
 - EV recorded ~13% average MoM growth, the highest among all segments
 - SUV segment received the most visitors (~180K–220K per month)
