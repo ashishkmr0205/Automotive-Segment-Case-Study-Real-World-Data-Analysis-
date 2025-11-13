@@ -87,8 +87,19 @@ This helped me understand customer demand, preferences, and buying behaviour.
 - That customer interest does not always turn into immediate conversion
 
   **Excel File -**
+   - <a href="https://docs.google.com/spreadsheets/d/1NaySW1ThmeD7wepbAZCGM6ZxGRykHIWs/edit?usp=sharing&ouid=110138800270509979094&rtpof=true&sd=true">Excel File</a>
 
   **PPT File -**
+   - <a href="https://docs.google.com/presentation/d/1L-fD9THlVUadNChHK7cadOBQzYBFW9rn/edit?usp=sharing&ouid=110138800270509979094&rtpof=true&sd=true">PPT File</a>
+   <img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/9c491263-8e6a-496d-84fe-d7ead4a26d94" />
+   <img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/ae8e8251-df1f-4b94-998e-26da4851b424" />
+   <img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/cddc00b2-d681-4034-ac40-cfc8ec7aaf0d" />
+   <img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/e92f14ec-4128-473e-b3d5-fa70e25103b5" />
+   <img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/0b257952-ec37-4492-a76e-5ddd5bd1e9c3" />
+
+
+
+
 
 **#DataAnalysis** **#BusinessAnalytics** **#DataVisualization** **#ExcelAnalytics** **#DataInsights** **#DataStorytelling** **#MarketResearch**
 **#DataDrivenDecisions** **#AnalyticsCommunity**
