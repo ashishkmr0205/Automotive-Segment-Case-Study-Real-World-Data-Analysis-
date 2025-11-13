@@ -62,20 +62,20 @@ This helped me understand customer demand, preferences, and buying behaviour.
 - The market is slowly moving towards electric mobility
 
 ## Recommendations
- **Focus on EV Campaigns**
+**Focus on EV Campaigns**
 - Increase EV marketing
 - Create EV vs Petrol comparison tools
 - Add EV-specific offers like test-drive or EMI calculators
 
-  **Improve Conversion Funnels**
+**Improve Conversion Funnels**
 - Make landing pages clearer
 - Add faster booking options and strong call-to-action buttons
 
-  **Use SUV Popularity for Cross-Promotion**
+**Use SUV Popularity for Cross-Promotion**
 - Promote EVs to SUV visitors
 - Run targeted EV ads for SUV audiences
 
-  **Boost Hatchback & Sedan Visibility**
+**Boost Hatchback & Sedan Visibility**
 - Offer discounts, features, and value-focused promotions
 
 ## What I Learned
@@ -85,6 +85,10 @@ This helped me understand customer demand, preferences, and buying behaviour.
 - How market maturity impacts growth
 - How to turn raw data into simple, clear insights
 - That customer interest does not always turn into immediate conversion
+
+  **Excel File -**
+
+  **PPT File -**
 
 **#DataAnalysis** **#BusinessAnalytics** **#DataVisualization** **#ExcelAnalytics** **#DataInsights** **#DataStorytelling** **#MarketResearch**
 **#DataDrivenDecisions** **#AnalyticsCommunity**
