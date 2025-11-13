@@ -46,6 +46,7 @@ This helped me understand customer demand, preferences, and buying behaviour.
   - Data cleaning
   - MoM growth calculations
   - Chart building and visualisation
+
 **Analytical Skills:**
 - Trend analysis
 - Segmentation analysis
@@ -65,13 +66,16 @@ This helped me understand customer demand, preferences, and buying behaviour.
 - Increase EV marketing
 - Create EV vs Petrol comparison tools
 - Add EV-specific offers like test-drive or EMI calculators
- **Improve Conversion Funnels**
+
+  **Improve Conversion Funnels**
 - Make landing pages clearer
 - Add faster booking options and strong call-to-action buttons
- **Use SUV Popularity for Cross-Promotion**
+
+  **Use SUV Popularity for Cross-Promotion**
 - Promote EVs to SUV visitors
 - Run targeted EV ads for SUV audiences
- **Boost Hatchback & Sedan Visibility**
+
+  **Boost Hatchback & Sedan Visibility**
 - Offer discounts, features, and value-focused promotions
 
 ## What I Learned
