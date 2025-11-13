@@ -88,6 +88,11 @@ This helped me understand customer demand, preferences, and buying behaviour.
 
   **Excel File -**
    - <a href="https://docs.google.com/spreadsheets/d/1NaySW1ThmeD7wepbAZCGM6ZxGRykHIWs/edit?usp=sharing&ouid=110138800270509979094&rtpof=true&sd=true">Excel File</a>
+   <img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/d1035d60-0c4e-4773-8515-d0c4844da859" />
+   <img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/2c989bcb-4ebd-4b28-83a5-3f2b249eaf8f" />
+   <img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/d8dde2c7-cd60-476e-878d-c0771557b2a0" />
+   <img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/62b2f285-efc0-4d81-ab29-b9d779872079" />
+
 
   **PPT File -**
    - <a href="https://docs.google.com/presentation/d/1L-fD9THlVUadNChHK7cadOBQzYBFW9rn/edit?usp=sharing&ouid=110138800270509979094&rtpof=true&sd=true">PPT File</a>
