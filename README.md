@@ -1,4 +1,4 @@
-# Automotive-Segment-Case-Study-Real-World-Data-Analysis-
+# Automotive Segment Case Study Real World-Data-Analysis-
 I have just completed a project on Automotive Segment Analysis, and I’m excited to share my work and experience. Working with real-world data helped me understand how numbers turn into meaningful insights that support better decision-making for an organisation.
 ## Summary
 In this study, I analysed how different automotive segments performed from January to June.
@@ -42,11 +42,11 @@ This helped me understand customer demand, preferences, and buying behaviour.
 - Hatchback and Sedan segments need stronger promotions to build stable demand
 
 ## Skills Used
-### Excel Skills:
+**Excel Skills:**
   - Data cleaning
   - MoM growth calculations
   - Chart building and visualisation
-### Analytical Skills:
+**Analytical Skills:**
 - Trend analysis
 - Segmentation analysis
 - Understanding visitor-to-lead conversion
@@ -61,17 +61,17 @@ This helped me understand customer demand, preferences, and buying behaviour.
 - The market is slowly moving towards electric mobility
 
 ## Recommendations
-### Focus on EV Campaigns
+ **Focus on EV Campaigns**
 - Increase EV marketing
 - Create EV vs Petrol comparison tools
 - Add EV-specific offers like test-drive or EMI calculators
-### Improve Conversion Funnels
+ **Improve Conversion Funnels**
 - Make landing pages clearer
 - Add faster booking options and strong call-to-action buttons
-### Use SUV Popularity for Cross-Promotion
+ **Use SUV Popularity for Cross-Promotion**
 - Promote EVs to SUV visitors
 - Run targeted EV ads for SUV audiences
-### Boost Hatchback & Sedan Visibility
+ **Boost Hatchback & Sedan Visibility**
 - Offer discounts, features, and value-focused promotions
 
 ## What I Learned
@@ -82,4 +82,5 @@ This helped me understand customer demand, preferences, and buying behaviour.
 - How to turn raw data into simple, clear insights
 - That customer interest does not always turn into immediate conversion
 
-#DataAnalysis #BusinessAnalytics #DataVisualization #ExcelAnalytics #DataInsights #DataStorytelling #MarketResearch #DataDrivenDecisions #AnalyticsCommunity
+**#DataAnalysis** **#BusinessAnalytics** **#DataVisualization** **#ExcelAnalytics** **#DataInsights** **#DataStorytelling** **#MarketResearch**
+**#DataDrivenDecisions** **#AnalyticsCommunity**
