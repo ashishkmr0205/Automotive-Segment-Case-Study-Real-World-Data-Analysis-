@@ -1,4 +1,4 @@
-# Automotive Segment Case Study Real World-Data-Analysis-
+# Automotive Segment Case Study Real World Data Analysis
 I have just completed a project on Automotive Segment Analysis, and I’m excited to share my work and experience. Working with real-world data helped me understand how numbers turn into meaningful insights that support better decision-making for an organisation.
 ## Summary
 In this study, I analysed how different automotive segments performed from January to June.
